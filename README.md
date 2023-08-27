@@ -8,7 +8,7 @@ This repository contains a Jupyter Notebook that demonstrates the Central Limit 
   
 - **Statistical Analysis**: Compares empirical values of the mean and Standard Error of the Mean (SEM) with theoretical values for a fair coin.
 
-- **Data Visualization**: Includes histograms and boxplots to visualize the distribution of sample means and their evolution over multiple experiments.
+- **Data Visualization**: Includes histograms and gaussian distributions to visualize the distribution of sample means and their evolution over multiple experiments.
 
 - **CLT Validation**: Empirically validates the Central Limit Theorem by comparing the sample distribution with a theoretical normal distribution.
 
